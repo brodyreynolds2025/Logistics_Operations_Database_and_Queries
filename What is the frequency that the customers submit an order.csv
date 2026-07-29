@@ -1,0 +1,9 @@
+company_name,total_orders,total_spent,avg_order_value,Type
+"GreenEnergy Corp",2,19099.82,9549.91,Repeat
+"MediHealth Supplies",2,10895.50,5447.75,Repeat
+"TechGlobal Solutions",2,7099.94,3549.97,Repeat
+"FreshFood Distributors",2,1849.70,924.85,Repeat
+"PharmaCare Solutions",1,12500.00,12500.00,One-Time
+"RetailMart Inc",1,3499.99,3499.99,One-Time
+"Industrial Metals Inc",1,3299.97,3299.97,One-Time
+"AutoParts Express",1,1499.89,1499.89,One-Time
