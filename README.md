@@ -8,7 +8,7 @@ A data analytics project analyzing customer and product performance for a logist
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+! [Dashboard Preview](dashboard_screenshot.png)
 
 ## Tools Used
 
